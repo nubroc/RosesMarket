@@ -20,10 +20,8 @@ Rose's Market est une application Vue.js pour gérer un marché en ligne avec de
     ```
 
 ### Lancement en mode développement
-    ```
-        npm run dev
-    ```
-
+   
+    ``` npm run dev ```
     Accédez à l'application sur http://localhost:5173.
 ### Lancement avec Docker
 1. Construisez et démarrez le conteneur :
