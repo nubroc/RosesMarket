@@ -10,18 +10,16 @@ Rose's Market est une application Vue.js pour gérer un marché en ligne avec de
 
 ### Installation
 1. Clonez le dépôt :
-   ```
-    git clone <url-du-repo>
-    cd vuejs_market_project
-   ```
+  
+``` git clone https://github.com/nubroc/RosesMarket  ```
+``` cd vuejs_market_project ```
+   
 2. Installez les dépendances :
-    ```
-        npm install
-    ```
+    
+``` npm install ```
 
 ### Lancement en mode développement
-   
-    ``` npm run dev ```
+``` npm run dev ```
     Accédez à l'application sur http://localhost:5173.
 ### Lancement avec Docker
 1. Construisez et démarrez le conteneur :
